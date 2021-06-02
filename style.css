@@ -123,6 +123,19 @@ header {
     float: left;
 }
 
+a {
+    cursor: pointer;
+    background-color: black;
+    height: 100px;
+    width: 150px;
+    border: none;
+    text-align: center;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    float: left;
+}
+
 
 /* NEWS */
 
